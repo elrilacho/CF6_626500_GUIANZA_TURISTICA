@@ -70,7 +70,7 @@
               p.text-small Para aprender más sobre el tema se sugiere leer el documento: plan estratégico de seguridad turística, en el cual podrá conocer las pautas o políticas nacionales.
             .col-sm-auto
               .d-block.mb-4
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/seguridad-turistica#:~:text=El%20Plan%20Estrat%C3%A9gico%20de%20Seguridad,para%20la%20gesti%C3%B3n%20de%20los" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') Por otro lado, también es indispensable favorecer espacios de calidad laboral para todo el personal que tiene que ver directa o indirectamente en la prestación de un servicio turístico en Colombia, por lo que a continuación se hará mención al tema.

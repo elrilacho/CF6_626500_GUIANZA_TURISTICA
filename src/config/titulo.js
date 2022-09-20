@@ -1,1 +1,1 @@
-module.exports = 'Caracterización del destino'
+module.exports = 'Atención de incidentes en el servicio guiado'

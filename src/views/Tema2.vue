@@ -26,7 +26,7 @@
                 |Sistema de Gestión del Riesgo de Desastres.
             .col-sm-auto
               .d-block.mb-4
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="http://portal.gestiondelriesgo.gov.co/Paginas/Estructura.aspx" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') Colombia ha venido trabajando en el proceso de gestión del riesgo por lo que se ha beneficiado como país al realizar dicha actividad de diferentes formas, en especial cuando ha protegido la vida y los bienes de todos aquellos que viven en esta tierra, en el siguiente recurso de aprendizaje puede conocer cómo una organización se puede beneficiar:
@@ -119,7 +119,6 @@
         .row.justify-content-center.mb-5
           .col-lg-8
             img(src='@/assets/curso/temas/tema2/11.svg', alt='')
-        //todo! Añadir documento ----------------------------------------------------------------------------------------------
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -130,7 +129,7 @@
                   p.text-small Como parte de su aprendizaje autónomo se invita a revisar la Ley 1523 del 24 de abril de 2012 en la cual se describe la Política Nacional de Gestión del Riesgo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141" target="_blank")
                       span Ir al sitio web
                       i.fas.fa-file-download
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
@@ -251,7 +250,7 @@
                   p.text-small Como parte de su aprendizaje autónomo se invita a ver el siguiente video sobre el Plan Nacional de Prevención de Desastres y cómo se aplica en todas las regiones con la ayuda de diferentes tipos de personas interesadas en concientizar a los ciudadanos colombianos y extranjeros que habitan el territorio.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="youtube.com/watch?v=Oeg1rftVTAA&ab_channel=UNGRDGestióndelRiesgodeDesastres" target="_blank")
                       span Ver video
                       i.fas.fa-play
     Separador
@@ -330,9 +329,9 @@
                     p.text-small Gestión del Riesgo Natural en el caso de Colombia.
                   .col-sm-auto
                     .d-block.mb-4
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                        span Ver video
-                        i.fas.fa-play
+                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc4.pdf')" target="_blank")
+                        span Descargar
+                        i.fas.fa-file
           .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
                 img(src="@/assets/curso/temas/tema2/25.svg")
@@ -342,7 +341,7 @@
                     p.text-small Colombia está en una zona geológica vulnerable ante un sismo. Entrevista a Cristian Dimaté, geofísica.
                   .col-sm-auto
                     .d-block.mb-4
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=ncJywNddqBE&ab_channel=EnlasMa%C3%B1anasconUno" target="_blank")
                         span Ver video
                         i.fas.fa-play
     Separador
@@ -374,7 +373,7 @@
                   p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales" target="_blank")
                       span Ir al sitio web
                       i.fas.fa-file-download
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
@@ -414,7 +413,7 @@
                   p.text-small ISO 9001 de 2015 busca la implementación de estándares de gestión de calidad en todos los procesos de las organizaciones, con el fin de dar satisfacción a los clientes.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc5.pdf')" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -422,7 +421,7 @@
                   p.text-small ISO 45001.  Requisitos con orientación para la aplicación de seguridad y salud en el trabajo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -430,7 +429,7 @@
                   p.text-small ISO 31000:2018. Gestión del riesgo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -438,7 +437,7 @@
                   p.text-small ISO 14001. Requisitos necesarios para implementar un Sistema de Gestión Medioambiental.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
                       span Ver video
                       i.fas.fa-play
     p.mb-5(data-aos='fade-right').text-center A nivel de turismo las ISO representativas se encuentran descritas a continuación:
@@ -471,7 +470,7 @@
                   p.text-small ISO 14785 oficinas de información turística
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://citur.gov.co/pages/1#gsc.tab=0" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -479,7 +478,7 @@
                   p.text-small ISO 21902 turismo accesible para todas las personas
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.unwto.org/es/news/publicada-la-primera-norma-internacional-sobre-turismo-accesible-para-todas-las-personas" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -487,7 +486,7 @@
                   p.text-small ISO 20611 y NTC sobre turismo de aventura  6523
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc8.pdf')" target="_blank")
                       span Ver video
                       i.fas.fa-play     
     p.mb-5(data-aos='fade-right') Para el caso específico de Colombia, el Estado ha venido diseñando normas para el sector turístico de alta calidad, con el fin de darle visibilidad internacional y recibir divisas por esos ingresos, revise el siguiente enlace donde encontrará las normas técnicas.     
@@ -504,7 +503,7 @@
                   p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales" target="_blank")
                       span Ir al sitio web
                       i.fas.fa-file-download
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
@@ -539,7 +538,7 @@
                   p.text-small ISO 18001
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc9.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
     div(style='background-color: #ffe6a1').p-5.mb-5
@@ -567,7 +566,7 @@
                   p.text-small Se invita a conocer la plataforma de calidad turística del Estado colombiano, en la cual podrá identificar cuáles empresas del sector cumplen con todos los estándares de calidad nacional e internacional.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://calidadturistica.gov.co/" target="_blank")
                       span Ir al sitio web
                       i.fas.fa-file-download
     p.mb-5(data-aos='fade-right').text-center Para resumir el tema sobre normatividad en el sector turístico se invita a mirar el siguiente video.

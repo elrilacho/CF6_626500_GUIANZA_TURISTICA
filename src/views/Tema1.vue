@@ -339,7 +339,6 @@
             h4 Determinar la vulnerabilidad
             p Un índice de vulnerabilidad está dado por la frecuencia o por la profundidad de los movimientos telúricos que se han presentado a través del tiempo en determinados sectores, por ejemplo: en Norte de Santander.
       .col-lg-3: img(src='@/assets/curso/temas/tema1/34.svg', alt='')
-    //todo! Añadir documento ----------------------------------------------------------------------------------------------
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -352,7 +351,7 @@
                 br
                 |¿Escenario de riesgos de desastres y escenarios de cambio climático?
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc3.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     Separador
@@ -475,11 +474,11 @@
                 |2. Instituto Colombiano de Normas Técnicas y Certificación. (2011.) Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. ICONTEC.
             .col-sm-auto
               .d-block.mb-4
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cdi_doaj_primary_oai_doaj_org_article_81169c6509314bf9b01c2dd903a1113f&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=PC" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
               .d-block
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000076763" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
 

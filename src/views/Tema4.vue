@@ -178,7 +178,7 @@
               p.text-small Elaboración e implementación de protocolos de seguridad turística.
             .col-sm-auto
               .d-block.mb-4
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/CMSPages/GetFile.aspx?guid=7e631b5f-d82c-4c49-89e9-27a8248d7a49" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
     Separador
@@ -302,7 +302,7 @@
                   p.text-small Ley 1558 de 2012
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://tinyurl.com/y9zkb43d" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -310,7 +310,7 @@
                   p.text-small Decreto 1379 de 2021
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172994" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -318,7 +318,7 @@
                   p.text-small Guías de turismo de Colombia. Normatividad
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://guiasdeturismodecolombia.gov.co/normatividad" target="_blank")
                       span Ver video
                       i.fas.fa-play
     p.mb-5(data-aos='fade-right') Igualmente, en la normativa se destacan las responsabilidades del guía, las cuales se podrán conocer en el siguiente recurso de aprendizaje:

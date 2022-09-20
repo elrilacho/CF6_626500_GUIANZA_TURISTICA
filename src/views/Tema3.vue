@@ -82,7 +82,7 @@
                   p.text-small Guía Técnica Colombiana GTC 45
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc10.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
     p.mb-5(data-aos='fade-right').text-center Como parte de su aprendizaje autónomo se invita a revisar los dos documentos que a continuación se mencionan, donde podrá encontrar elementos clave sobre salud ocupacional que le servirán en su vida laboral.
@@ -99,7 +99,7 @@
                   p.text-small Palomino, A. y Sánchez, J. (2012). OHSAS. 18001:2007. Adaptado a 18002:2008: Sistemas de Gestión de la Seguridad y Salud en el trabajo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000067913" target="_blank")
                       span Ver video
                       i.fas.fa-play
               .row.justify-content-between.align-items-center
@@ -107,7 +107,7 @@
                   p.text-small Palomino, E. y Sánchez, J. OHSAS. 18001:2007. (2012). Adaptado a 18002:2008: Sistemas de Gestión de la Seguridad y Salud en el Trabajo. 3rd ed., Fundación Confemetal Print.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000067913" target="_blank")
                       span Ver video
                       i.fas.fa-play
     hr

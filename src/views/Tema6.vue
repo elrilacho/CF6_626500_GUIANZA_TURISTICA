@@ -84,7 +84,7 @@
                   p.text-small Guía Técnica Colombiana GTC 45.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://saludocupacionalunad.files.wordpress.com/2012/07/gtc-45-2010.pdf" target="_blank")
                       span Descargar
                       i.fas.fa-file
               .row.justify-content-between.align-items-center
@@ -92,7 +92,7 @@
                   p.text-small Decreto 1072 de 2015 capítulos 5 y 6.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.icbf.gov.co/cargues/avance/docs/decreto_1072_2015.htm" target="_blank")
                       span Descargar
                       i.fas.fa-file
 
