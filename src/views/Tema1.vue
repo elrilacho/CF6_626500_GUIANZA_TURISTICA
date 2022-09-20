@@ -457,11 +457,12 @@
             li
               i.vineta
               | ¿El nivel de especialización del guía y el equipo de apoyo es el adecuado?
+        .col-lg-4: img(src='@/assets/curso/temas/tema1/39.svg', alt='')
     //todo! Añadir documento ----------------------------------------------------------------------------------------------
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/35.svg")
+          img(src="@/assets/curso/temas/tema1/40.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -473,12 +474,14 @@
                 br
                 |2. Instituto Colombiano de Normas Técnicas y Certificación. (2011.) Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. ICONTEC.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                span Ir al sitio web
-                i.fas.fa-file-download
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                span Ir al sitio web
-                i.fas.fa-file-download
+              .d-block.mb-4
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  span Ir al sitio web
+                  i.fas.fa-file-download
+              .d-block
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  span Ir al sitio web
+                  i.fas.fa-file-download
 
 
 

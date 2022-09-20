@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="165" viewBox="0 0 165 165">
+  <g id="_29" data-name="29" transform="translate(-3064 7436)">
+    <circle id="Elipse_5531" data-name="Elipse 5531" cx="82.5" cy="82.5" r="82.5" transform="translate(3064 -7436)" fill="#ccd3ca"/>
+    <g id="puerta-abierta" transform="translate(3082.5 -7417)">
+      <path id="Trazado_691460" data-name="Trazado 691460" d="M127.9,63.783a63.7,63.7,0,1,0-63.7,63.783A63.741,63.741,0,0,0,127.9,63.783Zm0,0" fill="#fe6192"/>
+      <path id="Trazado_691461" data-name="Trazado 691461" d="M226.905,149.268c0-.879-.022-1.752-.057-2.622l-32.795-32.795-61.694,71.162,27.969,27.969c.955.043,1.913.068,2.878.068A63.741,63.741,0,0,0,226.905,149.268Zm0,0" transform="translate(-99.006 -85.485)" fill="#bf496e"/>
+      <path id="Trazado_691462" data-name="Trazado 691462" d="M232.153,113.852l-7.969,14.358,31.715,56.8H263V113.852Zm0,0" transform="translate(-167.953 -85.485)" fill="silver"/>
+      <path id="Trazado_691463" data-name="Trazado 691463" d="M163.206,123.476v-9.624H132.359v71.162h9.467Zm0,0" transform="translate(-99.006 -85.485)" fill="#e4e4e4"/>
+      <path id="Trazado_691464" data-name="Trazado 691464" d="M208.378,142.984l-15.858,63.9h39.6v-63.9Zm0,0" transform="translate(-144.178 -107.36)" fill="#434343"/>
+      <path id="Trazado_691465" data-name="Trazado 691465" d="M160.855,142.984l7.1,42.76H184.6v-42.76Zm0,0" transform="translate(-120.403 -107.36)" fill="#636363"/>
+      <path id="Trazado_691466" data-name="Trazado 691466" d="M239.548,171.926l-11.913-3.215-9.468,31.951,9.468,31.952,11.913,3.216Zm0,0" transform="translate(-163.436 -126.676)" fill="#0f9af0"/>
+      <path id="Trazado_691467" data-name="Trazado 691467" d="M160.855,142.984v63.9L184.6,213.3v-63.9Zm0,0" transform="translate(-120.403 -107.36)" fill="#13bdf7"/>
+      <path id="Trazado_691468" data-name="Trazado 691468" d="M275.308,296.293a2.367,2.367,0,1,1-2.367-2.367A2.367,2.367,0,0,1,275.308,296.293Zm0,0" transform="translate(-202.785 -220.694)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
