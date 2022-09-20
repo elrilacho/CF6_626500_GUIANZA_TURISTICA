@@ -127,6 +127,13 @@ export default {
         titulo: 'La temática: el hilo argumental',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'La temática: el hilo argumental',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
